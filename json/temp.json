@@ -1,0 +1,57 @@
+{
+    "kind": "sj#track",
+    "id": "8b3140af-97b8-338d-bcd2-ee027fe07268",
+    "clientId": "zKxpNXFzOKq3DGHt0jwdhA",
+    "creationTimestamp": "1320865259074796",
+    "lastModifiedTimestamp": "1320865259074796",
+    "recentTimestamp": "1320865259031089",
+    "deleted": false,
+    "title": "Starchild",
+    "artist": "Native America",
+    "composer": "",
+    "album": "Dancing About Architecture",
+    "albumArtist": "Native America",
+    "year": 0,
+    "comment": "",
+    "trackNumber": 2,
+    "genre": "Alternative/Indie",
+    "durationMillis": "210000",
+    "beatsPerMinute": 0,
+    "albumArtRef": [{
+        "kind": "sj#imageRef",
+        "url": "http://lh4.ggpht.com/xXqEmTJail0kwn4VM59bkc9JMabJUrV6QXwVNoY3RxHxyHIxbYy3MbAgQ7Q"
+    }],
+    "artistArtRef": [{
+        "kind": "sj#imageRef",
+        "url": "http://lh3.googleusercontent.com/wT3eQzeWdXi69KkP1Wi68XFR3JfndNuNeS_2oz6cNn2gG2RvFigpQrKrMsakPi2t4oaheO9q",
+        "aspectRatio": "2",
+        "autogen": true
+    }],
+    "playCount": 0,
+    "totalTrackCount": 5,
+    "discNumber": 1,
+    "totalDiscCount": 1,
+    "rating": "0",
+    "estimatedSize": "8551651",
+    "trackType": "6",
+    "storeId": "Tumpw5gtkmzqiyzg27ycgfxr76q",
+    "albumId": "Bhznvyi6mot5s64rswhwmjxryp4",
+    "artistId": [
+        "Aclpq47tfycd6ps4i6bwcg27a6e"
+    ],
+    "nid": "Tumpw5gtkmzqiyzg27ycgfxr76q"
+}, {
+    "kind": "sj#playlist",
+    "id": "6b6be0f7-f71a-4f57-adf9-06bce8e5d0e9",
+    "creationTimestamp": "1434032330014662",
+    "lastModifiedTimestamp": "1434054251462829",
+    "recentTimestamp": "1434054251372000",
+    "deleted": false,
+    "name": "TMV",
+    "type": "USER_GENERATED",
+    "shareToken": "AMaBXyno4x0KVhew4kGf8kv0Xh890vNIWGuFhOGyW9UtyEjirlCu16p6pRflZOUJJWlxl7Oo21YsP9t-xvegp4TfxBQZcmvqcg==",
+    "ownerName": "Jonathan Williams",
+    "ownerProfilePhotoUrl": "http://lh3.googleusercontent.com/a-/AOh14GicGk5rwpuV6ECuNRzB9eTQUm3tp4-QNmH-hYJFPQ",
+    "accessControlled": false,
+    "tracks": []
+}
